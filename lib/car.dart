@@ -1,6 +1,5 @@
-import 'package:edituser/main.dart';
 import 'package:flutter/material.dart';
-import 'main.dart';
+import 'profile.dart';
 void main() => runApp(MaterialApp(
     home:Car()
 ));
